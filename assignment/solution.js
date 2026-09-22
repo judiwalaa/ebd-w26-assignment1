@@ -10,3 +10,6 @@ console.log("1. Judi Walaa");
 console.log("2. 16006892");
 console.log("3. " + (16006892 * 9));
 console.log('4. "By Siwa oasis, the Griffin burns out!"');
+console.log("");
+
+// for the second commit
